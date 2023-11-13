@@ -1,4 +1,5 @@
-# Three.js Journey
+# Three.js Experiment
+Launched on [vercel](https://threejs-text-2fk8gyt26-tantanok221s-projects.vercel.app)
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -11,6 +12,4 @@ npm install
 # Run the local server at localhost:8080
 npm run dev
 
-# Build for production in the dist/ directory
-npm run build
 ```
